@@ -1,0 +1,4 @@
+c:\users\toshiba\documents\visual studio 2010\Projects\ExceptionTest\ExceptionTest\bin\Debug\ExceptionTest.exe
+c:\users\toshiba\documents\visual studio 2010\Projects\ExceptionTest\ExceptionTest\bin\Debug\ExceptionTest.pdb
+c:\users\toshiba\documents\visual studio 2010\Projects\ExceptionTest\ExceptionTest\obj\x86\Debug\ExceptionTest.exe
+c:\users\toshiba\documents\visual studio 2010\Projects\ExceptionTest\ExceptionTest\obj\x86\Debug\ExceptionTest.pdb

@@ -1,0 +1,5 @@
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\tp5\tp5\obj\Debug\tp5.csprojResolveAssemblyReference.cache
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\tp5\tp5\bin\Debug\tp5.exe
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\tp5\tp5\bin\Debug\tp5.pdb
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\tp5\tp5\obj\Debug\tp5.exe
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\tp5\tp5\obj\Debug\tp5.pdb

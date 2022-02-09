@@ -1,0 +1,5 @@
+C:\Users\doc\Desktop\tp9\tp9\obj\Debug\tp9.csprojResolveAssemblyReference.cache
+C:\Users\doc\Desktop\tp9\tp9\bin\Debug\tp9.exe
+C:\Users\doc\Desktop\tp9\tp9\bin\Debug\tp9.pdb
+C:\Users\doc\Desktop\tp9\tp9\obj\Debug\tp9.exe
+C:\Users\doc\Desktop\tp9\tp9\obj\Debug\tp9.pdb

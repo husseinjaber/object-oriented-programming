@@ -1,0 +1,5 @@
+C:\Users\hp\Desktop\rdb class\lab9_10\lab9_10\obj\Debug\lab9_10.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\rdb class\lab9_10\lab9_10\bin\Debug\lab9_10.exe
+C:\Users\hp\Desktop\rdb class\lab9_10\lab9_10\bin\Debug\lab9_10.pdb
+C:\Users\hp\Desktop\rdb class\lab9_10\lab9_10\obj\Debug\lab9_10.exe
+C:\Users\hp\Desktop\rdb class\lab9_10\lab9_10\obj\Debug\lab9_10.pdb

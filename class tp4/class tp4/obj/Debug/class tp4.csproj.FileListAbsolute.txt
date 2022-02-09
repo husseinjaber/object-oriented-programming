@@ -1,0 +1,5 @@
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\class tp4\class tp4\obj\Debug\class tp4.csprojResolveAssemblyReference.cache
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\class tp4\class tp4\bin\Debug\class tp4.exe
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\class tp4\class tp4\bin\Debug\class tp4.pdb
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\class tp4\class tp4\obj\Debug\class tp4.exe
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\class tp4\class tp4\obj\Debug\class tp4.pdb

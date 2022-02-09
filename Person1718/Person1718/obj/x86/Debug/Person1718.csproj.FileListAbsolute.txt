@@ -1,0 +1,4 @@
+c:\users\toshiba\documents\visual studio 2010\Projects\Person1718\Person1718\bin\Debug\Person1718.exe
+c:\users\toshiba\documents\visual studio 2010\Projects\Person1718\Person1718\bin\Debug\Person1718.pdb
+c:\users\toshiba\documents\visual studio 2010\Projects\Person1718\Person1718\obj\x86\Debug\Person1718.exe
+c:\users\toshiba\documents\visual studio 2010\Projects\Person1718\Person1718\obj\x86\Debug\Person1718.pdb

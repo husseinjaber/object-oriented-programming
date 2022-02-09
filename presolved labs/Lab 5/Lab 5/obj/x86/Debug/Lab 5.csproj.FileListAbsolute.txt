@@ -1,0 +1,4 @@
+C:\Users\user\Documents\oop lab\Lab 5\Lab 5\bin\Debug\Lab 5.exe
+C:\Users\user\Documents\oop lab\Lab 5\Lab 5\bin\Debug\Lab 5.pdb
+C:\Users\user\Documents\oop lab\Lab 5\Lab 5\obj\x86\Debug\Lab 5.exe
+C:\Users\user\Documents\oop lab\Lab 5\Lab 5\obj\x86\Debug\Lab 5.pdb

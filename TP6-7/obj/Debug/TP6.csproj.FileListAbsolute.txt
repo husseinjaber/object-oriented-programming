@@ -1,0 +1,6 @@
+c:\users\darks\documents\visual studio 2015\Projects\TP6\TP6\bin\Debug\TP6.exe.config
+c:\users\darks\documents\visual studio 2015\Projects\TP6\TP6\bin\Debug\TP6.exe
+c:\users\darks\documents\visual studio 2015\Projects\TP6\TP6\bin\Debug\TP6.pdb
+c:\users\darks\documents\visual studio 2015\Projects\TP6\TP6\obj\Debug\TP6.csprojResolveAssemblyReference.cache
+c:\users\darks\documents\visual studio 2015\Projects\TP6\TP6\obj\Debug\TP6.exe
+c:\users\darks\documents\visual studio 2015\Projects\TP6\TP6\obj\Debug\TP6.pdb

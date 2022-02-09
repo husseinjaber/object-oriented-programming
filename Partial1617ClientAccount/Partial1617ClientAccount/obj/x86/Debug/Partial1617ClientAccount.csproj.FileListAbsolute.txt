@@ -1,0 +1,5 @@
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\Partial1617ClientAccount\Partial1617ClientAccount\bin\Debug\Partial1617ClientAccount.exe
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\Partial1617ClientAccount\Partial1617ClientAccount\bin\Debug\Partial1617ClientAccount.pdb
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\Partial1617ClientAccount\Partial1617ClientAccount\obj\x86\Debug\Partial1617ClientAccount.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\Partial1617ClientAccount\Partial1617ClientAccount\obj\x86\Debug\Partial1617ClientAccount.exe
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\Partial1617ClientAccount\Partial1617ClientAccount\obj\x86\Debug\Partial1617ClientAccount.pdb

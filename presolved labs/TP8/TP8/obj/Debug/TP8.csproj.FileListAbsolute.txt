@@ -1,0 +1,6 @@
+D:\reports and data\C#\TP8\TP8\bin\Debug\TP8.exe.config
+D:\reports and data\C#\TP8\TP8\obj\Debug\TP8.csprojResolveAssemblyReference.cache
+D:\reports and data\C#\TP8\TP8\bin\Debug\TP8.exe
+D:\reports and data\C#\TP8\TP8\bin\Debug\TP8.pdb
+D:\reports and data\C#\TP8\TP8\obj\Debug\TP8.exe
+D:\reports and data\C#\TP8\TP8\obj\Debug\TP8.pdb

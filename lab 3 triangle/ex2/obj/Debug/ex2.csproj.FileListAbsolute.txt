@@ -1,0 +1,5 @@
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\tp0101\ex2\bin\Debug\ex2.exe
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\tp0101\ex2\bin\Debug\ex2.pdb
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\tp0101\ex2\obj\Debug\ex2.csprojResolveAssemblyReference.cache
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\tp0101\ex2\obj\Debug\ex2.exe
+C:\Users\doc\Desktop\Dalia\sharp developer OOL\tp0101\ex2\obj\Debug\ex2.pdb

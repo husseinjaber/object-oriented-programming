@@ -1,0 +1,4 @@
+c:\users\toshiba\documents\visual studio 2010\Projects\ExerciseCircle\ExerciseCircle\bin\Debug\ExerciseCircle.exe
+c:\users\toshiba\documents\visual studio 2010\Projects\ExerciseCircle\ExerciseCircle\bin\Debug\ExerciseCircle.pdb
+c:\users\toshiba\documents\visual studio 2010\Projects\ExerciseCircle\ExerciseCircle\obj\x86\Debug\ExerciseCircle.exe
+c:\users\toshiba\documents\visual studio 2010\Projects\ExerciseCircle\ExerciseCircle\obj\x86\Debug\ExerciseCircle.pdb

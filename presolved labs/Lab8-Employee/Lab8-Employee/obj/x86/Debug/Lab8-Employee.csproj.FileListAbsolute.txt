@@ -1,0 +1,4 @@
+C:\Users\user\Documents\oop lab\Lab8-Employee\Lab8-Employee\bin\Debug\Lab8-Employee.exe
+C:\Users\user\Documents\oop lab\Lab8-Employee\Lab8-Employee\bin\Debug\Lab8-Employee.pdb
+C:\Users\user\Documents\oop lab\Lab8-Employee\Lab8-Employee\obj\x86\Debug\Lab8-Employee.exe
+C:\Users\user\Documents\oop lab\Lab8-Employee\Lab8-Employee\obj\x86\Debug\Lab8-Employee.pdb

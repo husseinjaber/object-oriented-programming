@@ -1,0 +1,6 @@
+D:\reports and data\C#\TP6-7\Ex1\bin\Debug\Ex1.exe.config
+D:\reports and data\C#\TP6-7\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+D:\reports and data\C#\TP6-7\Ex1\bin\Debug\Ex1.exe
+D:\reports and data\C#\TP6-7\Ex1\bin\Debug\Ex1.pdb
+D:\reports and data\C#\TP6-7\Ex1\obj\Debug\Ex1.exe
+D:\reports and data\C#\TP6-7\Ex1\obj\Debug\Ex1.pdb

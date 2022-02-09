@@ -1,0 +1,6 @@
+D:\reports and data\C#\TP6-7\Ex2\bin\Debug\Ex2.exe.config
+D:\reports and data\C#\TP6-7\Ex2\bin\Debug\Ex2.exe
+D:\reports and data\C#\TP6-7\Ex2\bin\Debug\Ex2.pdb
+D:\reports and data\C#\TP6-7\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache
+D:\reports and data\C#\TP6-7\Ex2\obj\Debug\Ex2.exe
+D:\reports and data\C#\TP6-7\Ex2\obj\Debug\Ex2.pdb

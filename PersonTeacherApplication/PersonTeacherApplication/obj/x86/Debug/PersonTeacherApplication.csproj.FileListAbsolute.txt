@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2010\Projects\PersonTeacherApplication\PersonTeacherApplication\bin\Debug\PersonTeacherApplication.exe
+c:\users\toshiba\documents\visual studio 2010\Projects\PersonTeacherApplication\PersonTeacherApplication\bin\Debug\PersonTeacherApplication.pdb
+c:\users\toshiba\documents\visual studio 2010\Projects\PersonTeacherApplication\PersonTeacherApplication\obj\x86\Debug\PersonTeacherApplication.exe
+c:\users\toshiba\documents\visual studio 2010\Projects\PersonTeacherApplication\PersonTeacherApplication\obj\x86\Debug\PersonTeacherApplication.pdb
+C:\Users\TOSHIBA\Documents\Visual Studio 2010\Projects\PersonTeacherApplication\PersonTeacherApplication\obj\x86\Debug\PersonTeacherApplication.csprojResolveAssemblyReference.cache

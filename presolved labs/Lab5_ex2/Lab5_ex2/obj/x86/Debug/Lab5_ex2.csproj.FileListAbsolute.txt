@@ -1,0 +1,5 @@
+C:\Users\user\Documents\oop lab\Lab5_ex2\Lab5_ex2\bin\Debug\Lab5_ex2.exe
+C:\Users\user\Documents\oop lab\Lab5_ex2\Lab5_ex2\bin\Debug\Lab5_ex2.pdb
+C:\Users\user\Documents\oop lab\Lab5_ex2\Lab5_ex2\obj\x86\Debug\Lab5_ex2.exe
+C:\Users\user\Documents\oop lab\Lab5_ex2\Lab5_ex2\obj\x86\Debug\Lab5_ex2.pdb
+C:\Users\user\Documents\oop lab\Lab5_ex2\Lab5_ex2\obj\x86\Debug\Lab5_ex2.csprojResolveAssemblyReference.cache
